@@ -17,3 +17,8 @@ build/
 # Optional hidden files
 .env
 *.icns
+
+*.mov
+*.mp4
+*.avi
+

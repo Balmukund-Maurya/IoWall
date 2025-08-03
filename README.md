@@ -1,6 +1,6 @@
 # 🌄 IoWall – Dynamic Wallpaper Changer for macOS
 
-![IoWall Demo](demo/ioWall_demo.mov)
+![IoWall Demo](demo/ioWall_demo.gif)
 
 **IoWall** is a beautiful and lightweight macOS menu bar application that lets you change your desktop wallpaper with stunning, high-quality images from [picsum.photos](https://picsum.photos). Whether you prefer nature, tech, abstract, or just something random — IoWall has you covered.
 
@@ -22,7 +22,7 @@
 
 >  GIF Preview of IoWall in action
 
-![IoWall App Demo](demo/ioWall_demo.mov)
+![IoWall App Demo](demo/ioWall_demo.gif)
 
 > _Note: Replace the path with your actual demo GIF location or a public URL if hosted._
 
