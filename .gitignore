@@ -1,0 +1,19 @@
+# Bytecode files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# App build folders
+dist/
+build/
+*.app/
+
+# Temporary logs or data
+*.log
+*.tmp
+
+# Optional hidden files
+.env
+*.icns
