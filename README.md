@@ -1,4 +1,4 @@
-# 🌄 IoWall – Dynamic Wallpaper Changer for macOS
+# IoWall – Dynamic Wallpaper Changer for macOS
 
 ![IoWall Demo](demo/ioWall_demo.gif)
 
@@ -24,7 +24,6 @@
 
 ![IoWall App Demo](demo/ioWall_demo.gif)
 
-> _Note: Replace the path with your actual demo GIF location or a public URL if hosted._
 
 ---
 
