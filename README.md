@@ -20,7 +20,7 @@
 
 >  GIF Preview of IoWall in action
 
-![IoWall App Demo](demo/IoWall_demo.gif)
+![IoWall App Demo](demo/demo.mov)
 
 
 ---
